@@ -1,0 +1,2 @@
+webpackJsonp([37],{"18R8":function(n,e){},pS1r:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  这是金融服务的页面\n")])},staticRenderFns:[]};var a=t("VU/8")({name:"financial",data:function(){return{}}},r,!1,function(n){t("18R8")},"data-v-54665167",null);e.default=a.exports}});
+//# sourceMappingURL=37.7076d43c04909d435d62.js.map
