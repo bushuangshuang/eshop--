@@ -32,7 +32,7 @@
     "script-loader": "^0.7.2",
     "swiper": "^4.5.0",
     "v-distpicker": "^1.2.1",
-    "vant": "^1.6.11",
+    "vant": "^2.1.8",
     "vue": "^2.5.2",
     "vue-barcode": "^1.2.0",
     "vue-comparison": "^1.0.1",
