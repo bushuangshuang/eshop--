@@ -16,7 +16,7 @@
   "dependencies": {
     "@sentry/browser": "^5.4.2",
     "@sentry/integrations": "^5.4.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "barcode": "^0.1.0",
     "cordova": "^9.0.0",
     "cross-env": "^5.2.0",
