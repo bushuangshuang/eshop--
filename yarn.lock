@@ -125,7 +125,7 @@
 
 "@sentry/browser@^5.4.2":
   version "5.4.2"
-  resolved "http://r.cnpmjs.org/@sentry/browser/download/@sentry/browser-5.4.2.tgz#f5c6a97c4ba4ae4e646fa14dc7d3311fa7d62a93"
+  resolved "https://r.cnpmjs.org/@sentry/browser/download/@sentry/browser-5.4.2.tgz#f5c6a97c4ba4ae4e646fa14dc7d3311fa7d62a93"
   integrity sha1-9capfEukrk5kb6FNx9MxH6fWKpM=
   dependencies:
     "@sentry/core" "5.4.2"
@@ -135,7 +135,7 @@
 
 "@sentry/core@5.4.2":
   version "5.4.2"
-  resolved "http://r.cnpmjs.org/@sentry/core/download/@sentry/core-5.4.2.tgz#8e4dcaae13447128ac51734e9c2de15d05859864"
+  resolved "https://r.cnpmjs.org/@sentry/core/download/@sentry/core-5.4.2.tgz#8e4dcaae13447128ac51734e9c2de15d05859864"
   integrity sha1-jk3KrhNEcSisUXNOnC3hXQWFmGQ=
   dependencies:
     "@sentry/hub" "5.4.2"
@@ -146,7 +146,7 @@
 
 "@sentry/hub@5.4.2":
   version "5.4.2"
-  resolved "http://r.cnpmjs.org/@sentry/hub/download/@sentry/hub-5.4.2.tgz#23e6bf6f64a3bd35725fdc540e47bcdb49f87ae4"
+  resolved "https://r.cnpmjs.org/@sentry/hub/download/@sentry/hub-5.4.2.tgz#23e6bf6f64a3bd35725fdc540e47bcdb49f87ae4"
   integrity sha1-I+a/b2SjvTVyX9xUDke820n4euQ=
   dependencies:
     "@sentry/types" "5.4.2"
@@ -155,7 +155,7 @@
 
 "@sentry/integrations@^5.4.2":
   version "5.4.2"
-  resolved "http://r.cnpmjs.org/@sentry/integrations/download/@sentry/integrations-5.4.2.tgz#75312407571392badc40ee48b031fae701fee564"
+  resolved "https://r.cnpmjs.org/@sentry/integrations/download/@sentry/integrations-5.4.2.tgz#75312407571392badc40ee48b031fae701fee564"
   integrity sha1-dTEkB1cTkrrcQO5IsDH65wH+5WQ=
   dependencies:
     "@sentry/types" "5.4.2"
@@ -164,7 +164,7 @@
 
 "@sentry/minimal@5.4.2":
   version "5.4.2"
-  resolved "http://r.cnpmjs.org/@sentry/minimal/download/@sentry/minimal-5.4.2.tgz#525ea2b4fb3914ddae17c4b59a20746565699f07"
+  resolved "https://r.cnpmjs.org/@sentry/minimal/download/@sentry/minimal-5.4.2.tgz#525ea2b4fb3914ddae17c4b59a20746565699f07"
   integrity sha1-Ul6itPs5FN2uF8S1miB0ZWVpnwc=
   dependencies:
     "@sentry/hub" "5.4.2"
@@ -173,12 +173,12 @@
 
 "@sentry/types@5.4.2":
   version "5.4.2"
-  resolved "http://r.cnpmjs.org/@sentry/types/download/@sentry/types-5.4.2.tgz#4ab327bced2cfd961dc7a29f0ff43398f913f6a6"
+  resolved "https://r.cnpmjs.org/@sentry/types/download/@sentry/types-5.4.2.tgz#4ab327bced2cfd961dc7a29f0ff43398f913f6a6"
   integrity sha1-SrMnvO0s/ZYdx6KfD/QzmPkT9qY=
 
 "@sentry/utils@5.4.2":
   version "5.4.2"
-  resolved "http://r.cnpmjs.org/@sentry/utils/download/@sentry/utils-5.4.2.tgz#c88c6c08d635e1744a443cfefe9e2ed7fa250e4e"
+  resolved "https://r.cnpmjs.org/@sentry/utils/download/@sentry/utils-5.4.2.tgz#c88c6c08d635e1744a443cfefe9e2ed7fa250e4e"
   integrity sha1-yIxsCNY14XRKRDz+/p4u1/olDk4=
   dependencies:
     "@sentry/types" "5.4.2"
@@ -1298,10 +1298,10 @@ barcode@^0.1.0:
   dependencies:
     gm "1.16.0"
 
-base64-js@^1.0.2, base64-js@^1.2.3:
-  version "1.3.0"
-  resolved "http://registry.npm.taobao.org/base64-js/download/base64-js-1.3.0.tgz#cab1e6118f051095e58b5281aea8c1cd22bfc0e3"
-  integrity sha512-ccav/yGvoa80BQDljCxsmmQ3Xvx60/UpBIij5QN21W3wBi/hhIC9OoO+KLpu9IJTS9j4DRVJ3aDDF9cMSoa2lw==
+base64-js@^1.0.2, base64-js@^1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/base64-js/-/base64-js-1.5.1.tgz#1b1b440160a5bf7ad40b650f095963481903930a"
+  integrity sha512-AKpaYlHn8t4SVbOHCy+b5+KKgvR4vrsD8vbvrbiQJps7fKDTkjkDry6ji0rUJjC0kzbNePLwzxq8iypo41qeWA==
 
 base@^0.11.1:
   version "0.11.2"
@@ -6438,13 +6438,12 @@ pkg-up@^2.0.0:
     find-up "^2.1.0"
 
 plist@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/plist/-/plist-3.0.1.tgz#a9b931d17c304e8912ef0ba3bdd6182baf2e1f8c"
-  integrity sha512-GpgvHHocGRyQm74b6FWEZZVRroHKE1I0/BTjAmySaohK+cUn+hZpbqXkc3KWgW3gQYkqcQej35FohcT0FRlkRQ==
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/plist/-/plist-3.0.4.tgz#a62df837e3aed2bb3b735899d510c4f186019cbe"
+  integrity sha512-ksrr8y9+nXOxQB2osVNqrgvX/XQPOXaU4BQMKjYq8PvaY1U18mo+fKgBSwzK+luSyinOuPae956lSVcBwxlAMg==
   dependencies:
-    base64-js "^1.2.3"
+    base64-js "^1.5.1"
     xmlbuilder "^9.0.7"
-    xmldom "0.1.x"
 
 pluralize@^7.0.0:
   version "7.0.0"
@@ -8394,7 +8393,7 @@ tryer@^1.0.0:
 
 tslib@^1.9.0, tslib@^1.9.3:
   version "1.10.0"
-  resolved "http://r.cnpmjs.org/tslib/download/tslib-1.10.0.tgz#c3c19f95973fb0a62973fb09d90d961ee43e5c8a"
+  resolved "https://r.cnpmjs.org/tslib/download/tslib-1.10.0.tgz#c3c19f95973fb0a62973fb09d90d961ee43e5c8a"
   integrity sha1-w8GflZc/sKYpc/sJ2Q2WHuQ+XIo=
 
 tty-browserify@0.0.0:
@@ -8690,7 +8689,7 @@ v-click-outside-x@^3.5.6:
 
 v-distpicker@^1.2.1:
   version "1.2.1"
-  resolved "http://r.cnpmjs.org/v-distpicker/download/v-distpicker-1.2.1.tgz#73ecce8a5e20c35fd6143619cbc14a6f3d5ee8d9"
+  resolved "https://r.cnpmjs.org/v-distpicker/download/v-distpicker-1.2.1.tgz#73ecce8a5e20c35fd6143619cbc14a6f3d5ee8d9"
   integrity sha1-c+zOil4gw1/WFDYZy8FKbz1e6Nk=
   dependencies:
     vue "^2.6.10"
@@ -8717,7 +8716,7 @@ validate-npm-package-name@^3.0.0:
 
 vant@^1.6.11:
   version "1.6.11"
-  resolved "http://r.cnpmjs.org/vant/download/vant-1.6.11.tgz#a904a2f5dec0cfd02d78b6ba46c3ed7372e15974"
+  resolved "https://r.cnpmjs.org/vant/download/vant-1.6.11.tgz#a904a2f5dec0cfd02d78b6ba46c3ed7372e15974"
   integrity sha1-qQSi9d7Az9AteLa6RsPtc3LhWXQ=
   dependencies:
     "@babel/runtime" "^7.4.2"
@@ -9116,11 +9115,6 @@ xmlbuilder@^9.0.7:
   version "9.0.7"
   resolved "https://registry.yarnpkg.com/xmlbuilder/-/xmlbuilder-9.0.7.tgz#132ee63d2ec5565c557e20f4c22df9aca686b10d"
   integrity sha1-Ey7mPS7FVlxVfiD0wi35rKaGsQ0=
-
-xmldom@0.1.x:
-  version "0.1.27"
-  resolved "https://registry.yarnpkg.com/xmldom/-/xmldom-0.1.27.tgz#d501f97b3bdb403af8ef9ecc20573187aadac0e9"
-  integrity sha1-1QH5ezvbQDr4757MIFcxh6rawOk=
 
 xtend@^4.0.0, xtend@~4.0.1:
   version "4.0.1"
